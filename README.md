@@ -1,4 +1,4 @@
-# University-Courses
+# University Courses
 
 Course materials, notes, exercises, and exams from my Bachelor's Degree in
 Computer Engineering and my Master's Degree in Data Science
