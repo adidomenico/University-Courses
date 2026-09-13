@@ -1,0 +1,39 @@
+# Foundations of Telecommunications
+Third year of Bachelor's Degree in Computer Engineering at University of Bologna (2020/2021)
+
+- Continuous-Time Fourier Analysis
+    - Deterministic continuous-time functions
+    - Fourier series; Fourier transforms
+    - Dirac delta; transforms of distributions, step signals, and periodic signals
+- Discrete-Time Fourier Analysis
+    - Deterministic discrete-time functions
+    - Discrete-Time Fourier Transform (DTFT)
+    - Nyquist-Shannon sampling theorem, Shannon series expansion
+    - Discrete Fourier Transform (DFT), FFT
+- Linear Networks
+    - Transfer functions and impulse response of linear time-invariant networks
+    - Non-distortion conditions; ideal, real, and FIR filters
+- Digital Representation of Signals
+    - Analog-to-digital conversion with PCM
+- Generalized Fourier Analysis
+    - Autocorrelation functions, energy and power spectra
+- Modulation Theory
+    - General definitions and main analog modulations (AM, PM, FM, product, QAM)
+- Digital Signals
+    - Digital PAM signals: bipolar and multilevel encodings, power spectra
+    - Overview of the main digital modulations
+- ISO-OSI and TCP/IP Models
+    - Network architectures: interfaces, protocols, and services
+- Layer 2 (Data Link)
+    - Services offered by layer 2
+    - Ethernet standard (10, 100, and 1000 Mbit/s); CSMA/CD protocol
+    - IEEE 802.11 standard (WiFi), CSMA-CA protocol, MAC addresses, hubs, and switches
+- Layer 3 (Network)
+    - Services offered by layer 3
+    - Connection-oriented vs datagram protocols; logical addresses, routing tables
+    - IPv4 protocol, notes on IPv6; NATs
+- Layer 4 (Transport)
+    - Services offered by layer 4
+    - UDP and TCP protocols (ACK, retransmission mechanisms, flow and congestion control); ports
+- DTN Networks
+    - Overview of challenged networks and the DTN (Delay-/Disruption-Tolerant Networking) architecture

@@ -1,0 +1,45 @@
+# Logic Design
+First year of Bachelor's Degree in Computer Engineering at University of Bologna (2018/2019)
+
+- Design Levels of a Digital Machine
+    - Structure and behavior
+    - Signal classification
+    - Switch networks
+    - Elementary gates
+- Binary Representation of Information
+    - Code properties
+    - Text and number encoding
+    - Classification of digital machines: combinational and sequential
+- Combinational Logic Networks
+    - Functions, truth tables, and logic schematics
+    - Switching algebra: operations, expressions, and equivalence theorems
+    - Synthesis and analysis with canonical and general expressions
+    - Real combinational networks: transient and steady-state behavior
+- Karnaugh Maps
+    - Synthesis with minimal expressions
+- Notable Combinational Networks
+    - Decoders and multiplexers
+    - Synthesis via decoder and OR
+    - Shannon's expansion theorem and synthesis via multiplexers
+    - Programmable networks
+    - ROM as programmable networks for combinational synthesis
+    - Three-state amplifier
+- Binary Arithmetic
+    - Unsigned and signed numbers
+    - Two's complement representation
+    - Half adder, full adder, and n-bit adder
+    - Arithmetic Logic Unit (ALU)
+- Asynchronous Sequential Networks
+    - As a combinational network with direct feedback
+    - Achievable behaviors, correctness constraints, and techniques to avoid malfunctions a priori
+    - Finite state machine model: state graph and flow table
+    - Synthesis and analysis methods for asynchronous networks
+- Notable Asynchronous Networks for Binary Memories
+    - Latches and flip-flops
+- Synchronous Sequential Networks
+    - As a combinational network with flip-flop feedback
+    - Clock signal period design
+    - Formal synthesis method for D-type flip-flop networks
+- Notable Synchronous Networks
+    - Registers, shift registers, counters
+    - Examples of synthesis of synchronous networks containing registers, counters, and shift registers without state diagrams

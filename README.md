@@ -10,7 +10,7 @@ Computer Engineering and my Master's Degree in Data Science
 
 - [Computer Science Fundamentals 1 (C Language)](1_Computer%20Science%20Fundamentals%201)
 - [Computer Science Fundamentals 2 (Java/C# Language)](1_Computer%20Science%20Fundamentals%202)
-- [Logical Networks](1_Logical%20Networks)
+- [Logic Design](1_Logic%20Design)
 
 ### 2nd year (2019/2020)
 
@@ -23,15 +23,29 @@ Computer Engineering and my Master's Degree in Data Science
 - [Automatic Controls](3_Automatic%20Controls)
 - [Computer Networks](3_Computer%20Networks)
 - [Cybersecurity](3_Cybersecurity)
+- [Foundations of Telecommunications](3_Foundations%20of%20Telecommunications)
 - [Software Engineering](3_Software%20Engineering)
 - [Web Technologies](3_Web%20Technologies)
+
+Other exams completed: Applied Mathematics, Computer Law, Economics and
+Business Organization, Electronics, Electrotechnics, General Physics, Geometry and Algebra, Mathematical Analysis.
 
 ## Master's Degree — Politecnico di Milano (1st year, 2021/2022)
 
 - [Computing Infrastructures](4_Computing%20Infrastructures)
+- [Data Mining](4_Data%20Mining)
 - [Databases 2](4_Databases%202)
+- [Image Analysis and Computer Vision](4_Image%20Analysis%20and%20Computer%20Vision)
 - [Machine Learning](4_Machine%20Learning)
+- [Principles of Programming Languages](4_Principles%20of%20Programming%20Languages)
+- [Systems and Methods for Big and Unstructured Data](4_Systems%20and%20Methods%20for%20Big%20and%20Unstructured%20Data)
+- [Technologies for Information Systems](4_Technologies%20for%20Information%20Systems)
 - [Theoretical Computer Science](4_Theoretical%20Computer%20Science)
+
+Business courses (Strategy & Marketing, Digital Business Innovation Lab,
+Innovation & Entrepreneurship Summer School) live
+in [Business-Projects](https://github.com/adidomenico/Business-Projects).
+Other exams completed: Technical Physics, Mechanics.
 
 ## Master's Degree — Université Côte d'Azur (2nd year, 2022/2023)
 
