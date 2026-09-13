@@ -45,6 +45,7 @@ Business Organization, Electronics, Electrotechnics, General Physics, Geometry a
 Business courses (Strategy & Marketing, Digital Business Innovation Lab,
 Innovation & Entrepreneurship Summer School) live
 in [Business-Projects](https://github.com/adidomenico/Business-Projects).
+
 Other exams completed: Technical Physics, Mechanics.
 
 ## Master's Degree — Université Côte d'Azur (2nd year, 2022/2023)
