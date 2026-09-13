@@ -42,8 +42,7 @@ Business Organization, Electronics, Electrotechnics, General Physics, Geometry a
 - [Technologies for Information Systems](Politecnico%20di%20Milano/4_Technologies%20for%20Information%20Systems)
 - [Theoretical Computer Science](Politecnico%20di%20Milano/4_Theoretical%20Computer%20Science)
 
-Business courses (Strategy & Marketing, Digital Business Innovation Lab,
-Innovation & Entrepreneurship Summer School) live
+Business courses (Strategy & Marketing, Digital Business Innovation Lab) live
 in [Business-Projects](https://github.com/adidomenico/Business-Projects).
 
 Other exams completed: Technical Physics, Mechanics.
@@ -58,3 +57,6 @@ Other exams completed: Technical Physics, Mechanics.
 - [Deep Learning](Universit%C3%A9%20C%C3%B4te%20d%27Azur/5_Deep%20Learning)
 - [Peer To Peer](Universit%C3%A9%20C%C3%B4te%20d%27Azur/5_Peer%20To%20Peer)
 - [Statistical Computational Methods](Universit%C3%A9%20C%C3%B4te%20d%27Azur/5_Statistical%20Computational%20Methods)
+
+Business course (Innovation & Entrepreneurship) lives
+in [Business-Projects](https://github.com/adidomenico/Business-Projects).
